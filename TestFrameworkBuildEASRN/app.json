@@ -1,0 +1,9 @@
+{
+  "name": "TestFrameworkBuildEASRN",
+  "displayName": "TestFrameworkBuildEASRN",
+  "extra": {
+    "eas": {
+      "projectId": "1ee26b5c-018f-41ca-9942-cb786e5ef11c"
+    }
+  }
+}
